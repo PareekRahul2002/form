@@ -16,7 +16,7 @@ else{
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-md-8">
                 
-<form id="regForm" action="submitform.php">
+<form id="regForm" action="submitform">
                     <h1 id="register"><strong>Survey Form</strong></h1>
                     <div class="all-steps" id="all-steps">
                         <span class="step " ><i class="fa fa-user"></i></span>

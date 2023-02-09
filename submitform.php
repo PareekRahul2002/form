@@ -15,7 +15,7 @@ if (!$conn) {
         echo"
           <script>
             alert('Form Submited Successfully');
-            window.location.href='thankyou.php';
+            window.location.href='thankyou';
           </script>
         ";
       }
@@ -25,7 +25,7 @@ if (!$conn) {
         echo"
           <script>
             alert('Sorry Server is Down');
-            window.location.href='index.php';
+            window.location.href='index';
           </script>
         ";        
       }

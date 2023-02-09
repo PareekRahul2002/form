@@ -27,7 +27,7 @@ session_start();
         <div class="row d-flex justify-content-center align-items-center">
             <div class="col-md-8">
                 
-<form id="regForm" action="surveyform.php">
+<form id="regForm" action="surveyform">
                     <h1 id="register"><strong>Access To Location Form</strong></h1>
                     <div class="all-steps" id="all-steps">
                         <span class="step " ><i class="fa fa-user"></i></span>
