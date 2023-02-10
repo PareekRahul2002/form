@@ -84,7 +84,7 @@ $i++;
 
 
 ?><?php
-echo "<h1>Total Sales ", $i ,"</h1>"; 
+echo "<h1>Total Forms ", $i ,"</h1>"; 
 ?>
   </table>
   <?php
